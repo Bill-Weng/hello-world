@@ -48,6 +48,6 @@ endmodule
 * 3
 
 *light*
-==milk==
-~~cower~~
+<br/>==milk==</br>
+<br/>~~cower~~</br>
 **color**
