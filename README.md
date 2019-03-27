@@ -4,7 +4,7 @@ Just for fun
 *LIST
 * 1  `source insight`
   * that is right
-    * awsome
+    * ~~~awsome~~~
 * 2
 * 3
 * 4
