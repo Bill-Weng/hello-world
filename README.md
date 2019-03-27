@@ -41,7 +41,7 @@ endmodule
 ```
 
 
-# when you get stuck
+# When you get stuck
 * 1
 * 2
 * 3
