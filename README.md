@@ -2,7 +2,7 @@
 
 <ul>
 <li><a href="#when you get stuck">When you get stuck</a></li>
-</u1> 
+</ul> 
 
 Just for fun 
 ## src 
