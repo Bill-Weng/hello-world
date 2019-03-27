@@ -18,6 +18,7 @@ Just for fun
 
 ![](https://github.com/Bill-Weng/hello-world/blob/testing/src/Chrysanthemum.jpg)
 ![](https://github.com/Bill-Weng/hello-world/blob/testing/src/block.png)
+![](https://github.com/Bill-Weng/hello-world/blob/testing/src/bg2015120901.png)
 
 ```c
 printf("12344\n");
