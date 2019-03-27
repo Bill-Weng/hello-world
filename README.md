@@ -13,3 +13,6 @@ Just for fun
 
 ![](https://github.com/Bill-Weng/hello-world/blob/testing/src/Chrysanthemum.jpg)
 ![](https://github.com/Bill-Weng/hello-world/blob/testing/src/block.png)
+
+```c
+if
